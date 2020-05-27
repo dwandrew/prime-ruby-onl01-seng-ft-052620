@@ -1,9 +1,7 @@
 # Add  code here!
 def prime?(num)
-  if 0 >= num;
+  if 1 >= num ;
      return false
-  elsif num == 1
-    return true
   end
   i=1
   while i<num
